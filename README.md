@@ -1,4 +1,4 @@
 devopstest
 ==========
 
-Devops Test
+Testing dockerhub/github integration with automated builds.
